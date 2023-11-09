@@ -15,7 +15,7 @@ if (brain !== empty) {
 
 <p align="center"> </p>
 
-### <p align="center">💻 My Stack Toolbox</p>
+### <p align="center">💻Toolbox</p>
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
