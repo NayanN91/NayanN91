@@ -13,7 +13,7 @@ if (brain !== empty) {
 
 ### <p align="center">🌱 About me</p>
 
-<p align="center"> </p>
+<p align="center">I'm Nayan, a fullstack software developer in the making currently in a 2 years learning process.  </p>
 
 ### <p align="center">💻Toolbox</p>
 
